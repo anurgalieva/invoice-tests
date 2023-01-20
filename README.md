@@ -7,7 +7,7 @@
 - Основной фреймворк: [codeceptJS](https://codecept.io/) 
 - Хелпер для взаимодействия с браузером: [Playwright](https://github.com/microsoft/playwright)
 - Хелпер для сравнения скриншотов: [ResembleHelper](https://codecept.io/visual/#using-resemble-helper)
-- Дополнительный хелпер, который можно уставовить для **мобильной** автоматизации: [Appium](https://codecept.io/helpers/Appium.html)
+- Дополнительный хелпер, который можно использовать для **мобильной** автоматизации: [Appium](https://codecept.io/helpers/Appium.html)
 
 ### Для ревьюеров
 В проекте два файла с тестами (*.test.js). Ссылки, локаторы вынесены в файл testIds.js. В блоке Before функции, которые открывают инвойс/эстимейт в браузере. 
